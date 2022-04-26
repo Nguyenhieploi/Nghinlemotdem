@@ -1,0 +1,8 @@
+@media only screen and (max-width: 576px){
+    .heading-top{
+        display: none;
+    }
+    .item{
+        margin-top: 30px;
+    }
+  }
